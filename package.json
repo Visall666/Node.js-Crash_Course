@@ -4,7 +4,7 @@
   "type": "module",
   "main": "hello_world.js",
   "scripts": {
-    "start": "nodemon --env-file=.env server.js"
+    "start": "nodemon --env-file=.env server2.js"
   },
   "keywords": [],
   "author": "",
